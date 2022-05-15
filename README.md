@@ -3,7 +3,7 @@
 Responsywna strona internetowa hodowli gryzoni zrobiona w WORDPRESS.
 
 
-> Stronę można zobaczyć pod adresem: https://dev-hodowla-gryzoni.pantheonsite.io/
+> Stronę można zobaczyć pod adresem:
 
 
 
