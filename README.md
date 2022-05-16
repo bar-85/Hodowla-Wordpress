@@ -1,4 +1,4 @@
-# hodowla gryzoni
+# HODOWLA GRYZONI
 
 Responsywna strona internetowa hodowli gryzoni zrobiona w WORDPRESS.
 
