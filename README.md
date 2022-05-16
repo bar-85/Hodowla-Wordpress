@@ -1,4 +1,4 @@
-# HODOWLA GRYZONI
+# HODOWLA GRYZONI - WordPress
 
 Responsywna strona internetowa hodowli gryzoni zrobiona w WORDPRESS.
 
