@@ -11,6 +11,7 @@ Responsywna strona internetowa hodowli gryzoni zrobiona w WORDPRESS.
 - Wordpress
 <br />
 <br />
+
 ![wordpress2](https://user-images.githubusercontent.com/105555319/168491732-5cb81fee-ac0d-4830-9267-bae2738707d4.png)
 
 
